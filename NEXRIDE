@@ -1,0 +1,9 @@
+git remote add origin https://github.com/Jaymikey1472/NEXRIDE-.git
+git branch -M main
+git push -u origin mainecho "# NEXRIDE-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Jaymikey1472/NEXRIDE-.git
+git push -u origin mainhttps://github.com/Jaymikey1472/NEXRIDE-.git
